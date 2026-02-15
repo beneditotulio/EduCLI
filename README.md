@@ -89,6 +89,14 @@ npm link
 educli create lesson "Introdução à Programação em C#" --level iniciante --lang pt
 ```
 
+> If you see `educli : The term 'educli' is not recognized`, make sure you ran  
+> `npm link` in the project folder and then opened a new terminal.  
+> As an alternative, you can always call the CLI directly with Node:
+>
+> ```bash
+> node dist/index.js create lesson "Introdução à Programação em C#" --level iniciante --lang pt
+> ```
+
 ### Parameters
 
 | Parameter | Description                                           |
