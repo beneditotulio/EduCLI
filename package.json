@@ -1,0 +1,31 @@
+{
+  "name": "educli",
+  "version": "1.0.0",
+  "description": "Offline-first learning content generator for low-connectivity environments",
+  "main": "dist/index.js",
+  "bin": {
+    "educli": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "keywords": [
+    "education",
+    "cli",
+    "offline",
+    "learning"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "handlebars": "^4.7.8"
+  },
+  "devDependencies": {
+    "@types/handlebars": "^4.1.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  }
+}
