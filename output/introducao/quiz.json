@@ -1,0 +1,128 @@
+{
+  "title": "Introducao",
+  "level": "beginner",
+  "language": "pt",
+  "difficulty": "beginner",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Qual é o principal objetivo da aula \"Introducao\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memorizar fórmulas sem contexto."
+        },
+        {
+          "id": "b",
+          "text": "Compreender conceitos e aplicá-los em exemplos práticos."
+        },
+        {
+          "id": "c",
+          "text": "Copiar códigos prontos sem entender."
+        },
+        {
+          "id": "d",
+          "text": "Apenas decorar definições isoladas."
+        }
+      ],
+      "correctOptionId": "b",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "O que é recomendado em ambientes de baixa conectividade?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Depender de vídeos online a todo momento."
+        },
+        {
+          "id": "b",
+          "text": "Usar materiais offline bem estruturados."
+        },
+        {
+          "id": "c",
+          "text": "Aguardar conexão estável para estudar."
+        },
+        {
+          "id": "d",
+          "text": "Não utilizar recursos digitais."
+        }
+      ],
+      "correctOptionId": "b",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "Por que exemplos simples são importantes no processo de aprendizagem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Porque substituem completamente a teoria."
+        },
+        {
+          "id": "b",
+          "text": "Porque deixam o conteúdo mais confuso."
+        },
+        {
+          "id": "c",
+          "text": "Porque ajudam a conectar teoria e prática."
+        },
+        {
+          "id": "d",
+          "text": "Porque evitam que o aluno pense criticamente."
+        }
+      ],
+      "correctOptionId": "c",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q4",
+      "question": "Qual é a melhor forma de verificar se os objetivos de aprendizagem foram alcançados?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ignorar os exercícios propostos."
+        },
+        {
+          "id": "b",
+          "text": "Refletir sobre os objetivos e revisar os exercícios."
+        },
+        {
+          "id": "c",
+          "text": "Focar apenas na introdução da aula."
+        },
+        {
+          "id": "d",
+          "text": "Pular diretamente para o resumo."
+        }
+      ],
+      "correctOptionId": "b",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q5",
+      "question": "Em um contexto educacional, o que significa uma abordagem offline-first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Depender de conexão constante com a internet."
+        },
+        {
+          "id": "b",
+          "text": "Garantir que o conteúdo funcione bem sem internet."
+        },
+        {
+          "id": "c",
+          "text": "Utilizar apenas redes sociais para ensino."
+        },
+        {
+          "id": "d",
+          "text": "Impedir o uso de qualquer recurso digital."
+        }
+      ],
+      "correctOptionId": "b",
+      "difficulty": "hard"
+    }
+  ]
+}
